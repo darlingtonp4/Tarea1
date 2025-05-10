@@ -1,0 +1,14 @@
+/Users/darlingtonpadgett/Tarea1/Heroes/bin/Debug/net9.0/Heroes
+/Users/darlingtonpadgett/Tarea1/Heroes/bin/Debug/net9.0/Heroes.deps.json
+/Users/darlingtonpadgett/Tarea1/Heroes/bin/Debug/net9.0/Heroes.runtimeconfig.json
+/Users/darlingtonpadgett/Tarea1/Heroes/bin/Debug/net9.0/Heroes.dll
+/Users/darlingtonpadgett/Tarea1/Heroes/bin/Debug/net9.0/Heroes.pdb
+/Users/darlingtonpadgett/Tarea1/Heroes/obj/Debug/net9.0/Heroes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darlingtonpadgett/Tarea1/Heroes/obj/Debug/net9.0/Heroes.AssemblyInfoInputs.cache
+/Users/darlingtonpadgett/Tarea1/Heroes/obj/Debug/net9.0/Heroes.AssemblyInfo.cs
+/Users/darlingtonpadgett/Tarea1/Heroes/obj/Debug/net9.0/Heroes.csproj.CoreCompileInputs.cache
+/Users/darlingtonpadgett/Tarea1/Heroes/obj/Debug/net9.0/Heroes.dll
+/Users/darlingtonpadgett/Tarea1/Heroes/obj/Debug/net9.0/refint/Heroes.dll
+/Users/darlingtonpadgett/Tarea1/Heroes/obj/Debug/net9.0/Heroes.pdb
+/Users/darlingtonpadgett/Tarea1/Heroes/obj/Debug/net9.0/Heroes.genruntimeconfig.cache
+/Users/darlingtonpadgett/Tarea1/Heroes/obj/Debug/net9.0/ref/Heroes.dll
